@@ -1,3 +1,4 @@
+20220505
 # Edu-Mail-Generator
 Generate Free Edu Mail(s) within minutes
 
