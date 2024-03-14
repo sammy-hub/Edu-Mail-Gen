@@ -9,7 +9,7 @@ from __dwnldDrivers.versions import *
 ######## Github Repo - https://git.io/JJisT/ ########
 
 def install(name):
-    subprocess.check_call([sys.executable, '-m', 'pip', 'install', name])
+    subprocess.check_call([sys.executable, '-Im', 'pip', 'install', name])
 
 def main():
 
